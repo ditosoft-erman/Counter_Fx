@@ -3,7 +3,7 @@ package com.example.counter;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class LoginController {
+public class CounterController {
 
     @FXML
     private Label counterLabel;
